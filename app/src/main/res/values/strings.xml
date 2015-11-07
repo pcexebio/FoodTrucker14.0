@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodTrucker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_registro">RegistroActivity</string>
+    <string name="app_id">1018160801562640</string>
+    <string name="parse_app_id">cMm5ZknRqyv8EhTLNOW1rHNDhFbtGsdZh878ixuM</string>
+    <string name="parse_client_key">VBeqqJn4AiuvMlQn57wZJIupSSel15I1CkDLQWMk</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="title_activity_fblogin_result">FBLoginResult</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_activity_mapa">Mapa</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
